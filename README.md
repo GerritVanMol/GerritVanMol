@@ -26,26 +26,26 @@ delivery
 Building LED screens
 
 ### Studies 🤔
-- Postgraduate Buisinessmanagement                2022-present
-- Bachelor electronics-ICT Odisee                 2019-2022
-- Technician electricity BSO Scheppers Institute  2012 - 2019
+- [x] Postgraduate Buisinessmanagement                2022-present
+- [x] Bachelor electronics-ICT Odisee                 2019-2022
+- [x] Technician electricity BSO Scheppers Institute  2012 - 2019
 
 
 
 #### Certifications ⚡
-*   CCNA CERTIFICATE                            2021-2024
-*   AWS Cloud practitioner (CLF-C01)            2021-2024
-*   Evening education certificate: Java basics  2017 - 2018
-*   Evening education certificate: Java 1       2018 - 2019
-*   VCA certificate                             2017 - 2018
+- [x]   CCNA CERTIFICATE                            2021-2024
+- [x]   AWS Cloud practitioner (CLF-C01)            2021-2024
+- [x]   Evening education certificate: Java basics  2017 - 2018
+- [x]   Evening education certificate: Java 1       2018 - 2019
+- [x]   VCA certificate                             2017 - 2018
 
 
 ##### Miscellaneous 🌱
 
-Driver's license AM, A2, B, BE
-Active leader KLJ Zaffelare
-Cybersecurity challenge Belgium 2021 participant and finalist 
-Technology: Building PCs, creating/testing home labs and software
+*  Driver's license AM, A2, B, BE
+*  Active leader KLJ Zaffelare
+*  Cybersecurity challenge Belgium 2021 participant and finalist 
+*  Technology: Building PCs, creating/testing home labs and software
 
 ##### Technologies worked with 🔭
 Java OO, C#, .NET (Blazor), Python, 
@@ -56,8 +56,8 @@ Cisco, Juniper, Palo Alto, Fortinet, Huawei
 
 
 ##### Languages
-Dutch: Mother language
-English: fluent
+*  Dutch: Mother language
+*  English: fluent
 
 ### Contact 💬
 - +32491 88 45 99
