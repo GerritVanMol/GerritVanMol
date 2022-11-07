@@ -32,7 +32,7 @@ Building LED screens
 
 
 
-#### Certifications ⚡
+### Certifications ⚡
 - [x]   CCNA CERTIFICATE                            2021-2024
 - [x]   AWS Cloud practitioner (CLF-C01)            2021-2024
 - [x]   Evening education certificate: Java basics  2017 - 2018
@@ -40,14 +40,14 @@ Building LED screens
 - [x]   VCA certificate                             2017 - 2018
 
 
-##### Miscellaneous 🌱
+#### Miscellaneous 🌱
 
 *  Driver's license AM, A2, B, BE
 *  Active leader KLJ Zaffelare
 *  Cybersecurity challenge Belgium 2021 participant and finalist 
 *  Technology: Building PCs, creating/testing home labs and software
 
-##### Technologies worked with 🔭
+#### Technologies worked with 🔭
 Java OO, C#, .NET (Blazor), Python, 
  Ansible, Bash, Django, Git, Linux server, 
  Docker, Jenkins, Azure DevOps, GitLab, GitHub Actions
@@ -55,7 +55,7 @@ Java OO, C#, .NET (Blazor), Python,
 Cisco, Juniper, Palo Alto, Fortinet, Huawei
 
 
-##### Languages
+#### Languages
 *  Dutch: Mother language
 *  English: fluent
 
