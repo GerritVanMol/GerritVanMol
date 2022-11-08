@@ -9,17 +9,21 @@ In my spare time, you will find me on the KLJ or outside with my pets.
 ## Work experience 😄
 
 - Student job: Delaware
+
 POC configuration and deployment of zabbix-proxies with SBC's
 
 - Internship: Nomios Nv Belgium
+
 Network/firewall deployment - automation with Ansible
 
 - Student job: Frituur Papas
  
 - Student job: Tempo bvba
+
 Home Renovation - Electricity works
 
 - Student job: Coolblue 
+
 delivery
     
 - Student job: LED-AD
