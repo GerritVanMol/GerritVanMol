@@ -8,7 +8,7 @@ In my spare time, you will find me on the KLJ or outside with my pets.
 
 ## Work experience 😄
 
-- Student job: Delaware
+- Student job: Delaware consulting
 
 POC configuration and deployment of zabbix-proxies with SBC's
 
