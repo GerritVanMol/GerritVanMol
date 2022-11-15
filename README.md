@@ -62,9 +62,3 @@ Cisco, Juniper, Palo Alto, Fortinet, Huawei
 #### Languages
 *  Dutch: Mother language
 *  English: fluent
-
-
-### Contact 💬
-- +32491 88 45 99
-- vanmolgerrit@gmail.com
-- Kapelstraat 57, 9080 Lochristi
