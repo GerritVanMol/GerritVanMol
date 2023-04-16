@@ -8,25 +8,25 @@ In my spare time, you will find me on the KLJ or outside with my pets.
 
 ## Work experience 😄
 
-- Student job: Delaware consulting
+- Student job: Delaware consulting                                 June - December 2022
 
 POC configuration and deployment of zabbix-proxies with SBC's
 
-- Internship: Nomios Nv Belgium
+- Internship: Nomios Nv Belgium                                    Januari - May 2021
 
 Network/firewall deployment - automation with Ansible
 
-- Student job: Frituur Papas
+- Student job: Frituur Papas                                       2016 - 2021
  
-- Student job: Tempo bvba
+- Student job: Tempo bvba                                          2016 - present
 
 Home Renovation - Electricity works
 
-- Student job: Coolblue 
+- Student job: Coolblue                                            November 2019 - Februari 2020
 
-delivery
+Delivery
     
-- Student job: LED-AD
+- Student job: LED-AD                                              September 2018
 Building LED screens
 
 ### Studies 🤔
@@ -48,7 +48,7 @@ Building LED screens
 
 *  Driver's license AM, A2, B, BE
 *  Active leader KLJ Zaffelare
-*  Cybersecurity challenge Belgium 2021 participant and finalist 
+*  Cybersecurity challenge Belgium 2021/2023 participant and finalist 
 *  Technology: Building PCs, creating/testing home labs and software
 
 #### Technologies worked with 🔭
