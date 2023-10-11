@@ -5,7 +5,7 @@ My passion is building computers and discovering novelties.
 In the future, I would like to become an expert DevOps engineer with a skillset of the developer side. 
 In my spare time, you will find me on the KLJ or outside with my pets.
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?GerritVanMol=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?GerritVanMol=anuraghazra&hide_progress=true)
 
 ## Work experience 😄
 
