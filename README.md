@@ -5,29 +5,30 @@ My passion is building computers and discovering novelties.
 In the future, I would like to become an expert DevOps engineer with a skillset of the developer side. 
 In my spare time, you will find me on the KLJ or outside with my pets.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerritVanMol&hide_progress=true)
 
 ## Work experience 😄
+- Developer/DevOps engineer: [intransmit BV](https://www.intransmit.com)                                 (2022 - present)
 
-- Student job: Delaware consulting                                 (June - December 2022)
+
+- Student job: [Delaware consulting](https://www.delaware.pro/en-be)                                 (June - December 2022)
 
 POC configuration and deployment of zabbix-proxies with SBC's
 
-- Internship: Nomios Nv Belgium                                    (Januari - May 2021)
+- Internship: [Nomios Nv Belgium](https://www.nomios.com/)                                    (Januari - May 2021)
 
 Network/firewall deployment - automation with Ansible
 
-- Student job: Frituur Papas                                       (2016 - 2021)
+- Student job: [Frituur Papas](https://www.picasso-lochristi.be/frituur-papas/)                                       (2016 - 2021)
  
-- Student job: Tempo bvba                                          (2016 - present)
+- Student job: [Tempo bvba](https://tempo-bvba.be/)                                          (2016 - present)
 
 Home Renovation - Electricity works
 
-- Student job: Coolblue                                           (November 2019 - Februari 2020)
+- Student job: [Coolblue](https://www.coolblue.be/nl)                                           (November 2019 - Februari 2020)
 
 Delivery
     
-- Student job: LED-AD                                             (September 2018)
+- Student job: [LED-AD](https://www.led-ad.be/)                                             (September 2018)
 Building LED screens
 
 ### Studies 🤔
@@ -58,6 +59,9 @@ Java OO, C#, .NET (Blazor), Python,
  Docker, Jenkins, Azure DevOps, GitLab, GitHub Actions
 ##### Network vendors worked with 
 Cisco, Juniper, Palo Alto, Fortinet, Huawei
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerritVanMol&hide_progress=true)
 
 
 #### Languages
