@@ -5,6 +5,7 @@ My passion is building computers and discovering novelties.
 In the future, I would like to become an expert DevOps engineer with a skillset of the developer side. 
 In my spare time, you will find me on the KLJ or outside with my pets.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerritVanMol&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Work experience 😄
 
