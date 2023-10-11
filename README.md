@@ -6,7 +6,6 @@ In the future, I would like to become an expert DevOps engineer with a skillset 
 In my spare time, you will find me on the KLJ or outside with my pets.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerritVanMol&hide_progress=true)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=GerritVanMol&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ## Work experience 😄
 
