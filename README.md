@@ -57,11 +57,11 @@ Building LED screens
 Java OO, C#, .NET (Blazor), Python, 
  Ansible, Bash, Django, Git, Linux server, 
  Docker, Jenkins, Azure DevOps, GitLab, GitHub Actions
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerritVanMol&hide_progress=true)
+ 
 ##### Network vendors worked with 
 Cisco, Juniper, Palo Alto, Fortinet, Huawei
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerritVanMol&hide_progress=true)
 
 
 #### Languages
