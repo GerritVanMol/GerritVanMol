@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Gerrit, a 23-year-old motivated student at the Vives College and a graduated student of Odisee University in Belgium.
+I am Gerrit, a 24-year-old motivated and graduated student of the Vives College and the Odisee University in Belgium.
 My passion is building computers and discovering novelties.
 In the future, I would like to become an expert DevOps engineer with a skillset of the developer side. 
 In my spare time, you will find me on the KLJ or outside with my pets.
