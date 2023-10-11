@@ -60,7 +60,7 @@ Java OO, C#, .NET (Blazor), Python,
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerritVanMol&hide_progress=true)
  
-##### Network vendors worked with 
+#### Network vendors worked with 
 Cisco, Juniper, Palo Alto, Fortinet, Huawei
 
 
