@@ -32,7 +32,7 @@ Delivery
 Building LED screens
 
 ### Studies 🤔
-- [x] Postgraduate Buisinessmanagement                2022-present
+- [x] Postgraduate Buisinessmanagement                2022-2023
 - [x] Bachelor electronics-ICT Odisee                 2019-2022
 - [x] Technician electricity BSO Scheppers Institute  2012 - 2019
 
